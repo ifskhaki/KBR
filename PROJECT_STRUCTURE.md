@@ -87,9 +87,6 @@ bitrecover/
 - `send_email.py`: Handles email sending (startup and matches)
 - `startup_notify.py`: Startup notification wrapper
 
-### Google Colab
-- `notebooks/bitrecover_colab.ipynb`: Complete Colab setup and execution
-
 ## Configuration
 
 - `config/config.json` (edit directly to personalize)
