@@ -118,10 +118,6 @@ address private_key_hex wif [GPU:0]
 
 Email notifications are sent immediately when matches are found.
 
-## Google Colab
-
-See `notebooks/bitrecover_colab.ipynb` for cloud execution instructions.
-
 ## Troubleshooting
 
 ### No GPUs Detected
@@ -156,4 +152,5 @@ See `notebooks/bitrecover_colab.ipynb` for cloud execution instructions.
 - Join discussions in GitHub Issues
 
 Happy searching! 🔍
+
 
