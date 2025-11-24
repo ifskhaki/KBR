@@ -11,7 +11,6 @@
 - ⚡ **High Performance**: Optimized CUDA kernels for maximum throughput
 - 🔄 **Resume Support**: Checkpoint/resume functionality
 - 📁 **Flexible I/O**: Read from `address.txt`, write matches to `Success.txt`
-- ☁️ **Colab Ready**: Optional Google Colab notebook for cloud execution
 
 ## 🏗️ Architecture
 
@@ -84,9 +83,6 @@ Expected speeds (approximate):
 - **RTX 3080**: ~600-800 MKeys/s
 - **Multi-GPU**: Near-linear scaling (95%+ efficiency)
 
-## 🧪 Google Colab
-
-See `notebooks/bitrecover_colab.ipynb` for cloud execution on free GPU instances. Edit/configure the same files as above.
 
 ## 📝 License
 
