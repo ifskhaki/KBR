@@ -54,10 +54,6 @@ bitrecover/
 - [x] CI/CD workflow
 - [x] Example files
 
-### ✅ Google Colab Support
-- [x] Complete Jupyter notebook
-- [x] Setup instructions
-- [x] Configuration examples
 
 ## 🔧 Next Steps to Complete Integration
 
